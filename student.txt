@@ -1,7 +1,0 @@
-student name:arun
-Department:CSE
-year:second year
-Subject:Git
-Experiment:Repository History audit
-purpose:track and audit repository changes
-add laboratory status
